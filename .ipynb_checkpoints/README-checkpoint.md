@@ -5,7 +5,7 @@
 ## **Objectives:**
 Using __diamonds_train.csv__ dataset that can be found [here](https://www.kaggle.com/shivam2503/diamonds):
 
-- Do an exploratory data analysis. The analysis was done using Jupyter, Pandas and libraries for plotting. It is stored on  `data_analysis_report.ipynb` file, that holds the results of __Challenge 1__ + __Bonus Challenge__. 
+- Do an exploratory data analysis. The analysis was done using Jupyter, Pandas and libraries for plotting and is stores on  `data_analysis_report.ipynb` file, that holds the results of __Challenge 1__ + __Bonus Challenge__. 
 
 - Create a dashboard using Tableau Public that can be found [here](https://public.tableau.com/profile/alvaru89#!/vizhome/Module2project/Dashboard1).
 
@@ -51,8 +51,6 @@ Comparing to clarity, the effect of color is less direct but still noticeable.
 
 This boxplot shows a high concentration of diamonds with Price/Carat below 5000 USD. This is consistent with the conclusion before, and hides the effect of color on price and price/carat on diamonds with better color.
 By changing the filter to at least 8000USD, it is easier to identify the correlation.
-
-No correlation was found with other variables such as table, depth or total_depth
 
 ## **Bonus Challenge: Hypothesis Testing**
 
